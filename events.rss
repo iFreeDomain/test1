@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>Test - Events in den nächsten vier Wochen</title>
+		<description>Die aktuellsten Events auf Test</description>
+		<link>http://vaptube.yooco.org</link>
+		<language>de-de</language>
+		<pubDate>Fri, 04 Feb 2022 06:30:40 +0100</pubDate>
+	</channel>
+</rss>

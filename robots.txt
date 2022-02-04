@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /datenschutz.html
+Disallow: /widerruf.html
+Disallow: /abuse.html
+Disallow: /agb.html
+Disallow: /terms.html
+Disallow: /impressum.html
+Disallow: /get_community_thumb.php
+Disallow: /*.do$
+Disallow: /files/
+Disallow: /popups/lizenz.html
+Disallow: /lizenz.html
+
+Disallow: /templates/
+
+User-agent: Mediapartners-Google
+Disallow:
